@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>HTML标签整理</title>
+      <link href="2022/01/08/HTML%E6%A0%87%E7%AD%BE%E6%95%B4%E7%90%86/"/>
+      <url>2022/01/08/HTML%E6%A0%87%E7%AD%BE%E6%95%B4%E7%90%86/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>整理一些HTML的标签</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+            <tag> HTML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>算法练-反转括号间字符串</title>
       <link href="2021/05/30/%E7%AE%97%E6%B3%95%E7%BB%83-%E5%8F%8D%E8%BD%AC%E6%8B%AC%E5%8F%B7%E9%97%B4%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
       <url>2021/05/30/%E7%AE%97%E6%B3%95%E7%BB%83-%E5%8F%8D%E8%BD%AC%E6%8B%AC%E5%8F%B7%E9%97%B4%E5%AD%97%E7%AC%A6%E4%B8%B2/</url>
